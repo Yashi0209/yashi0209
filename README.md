@@ -1,5 +1,9 @@
 <h1 align="center">Hello 👋, I'm Ayushi Rajshekhar</h1>
-<h3 align="center">I like to solve real world problems using Mathematics and programming. I am highly passionate for the data-driven industry and love applying Machine Learning, AI and Computer Vision to build scalable and fault-tolerant AI embedded products.</h3>
+<h3 align="center">I am a graduate student at Arizona State University, pursuing my masters of science in computer science with a focus on computer vision. I have a strong background in electrical and electronics engineering, having completed my bachelor of technology from National Institute of Technology Mizoram and Indian Institute of Technology Madras.
+
+I have extensive experience in applying artificial intelligence and machine learning to various domains, such as healthcare, education, and social good. I have worked as a project intern at Healthcare Technology Innovation Centre, where I developed and deployed a deep learning model to detect diabetic retinopathy from fundus images. I have also conducted research on image processing and natural language processing at Indian Institute of Technology Jammu and Omdena, respectively. Additionally, I have participated in prestigious events such as Harvard WECode and Rise-up 2022, where I showcased my innovative solutions for real-world problems using AI and ML.
+
+I am proficient in Python, SQL, and MATLAB, and have multiple certifications in data structures, algorithms, and machine learning from Coding Ninjas and Coursera. I am passionate about learning new technologies and skills, and I am always eager to take on new challenges and opportunities. I am looking for a dynamic internship opportunity that will allow me to further my expertise in computer vision and contribute to a forward-thinking organization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashi0209&label=Profile%20views&color=0e75b6&style=flat" alt="yashi0209" /> </p>
 
